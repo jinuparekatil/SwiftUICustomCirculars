@@ -4,7 +4,8 @@
 
 ## A Guide to Creating Activity-Ring-Like Circular Progress Bars in SwiftUI
 
-![Preview Image](./images/swiftui Circle.jpeg)
+![Preview Image](./images/swiftui Circle.JPEG)
+
 
 ### Overview
 
