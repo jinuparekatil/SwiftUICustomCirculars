@@ -16,7 +16,7 @@ Welcome to SwiftUICustomCirculars, a comprehensive guide on building custom circ
 
 ### Prerequisites
 
-- Xcode [version]
+- Xcode 17
 - SwiftUI knowledge
 - Basic understanding of Swift programming language
 
